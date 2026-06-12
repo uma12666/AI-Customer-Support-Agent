@@ -66,6 +66,6 @@ streamlit run streamlit_app.py
 
 ## Author
 
-Padmanethra MV
-B.E. CSE
+Padmanethra MV,
+B.E. CSE,
 KCG College of Technology
